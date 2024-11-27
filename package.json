@@ -1,5 +1,5 @@
 {
-  "name": "text-next-15-no-turbo",
+  "name": "mt-with-tailwind-v4",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@material-tailwind/react": "beta",
+    "@tailwindcss/postcss": "next",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106"
@@ -20,7 +21,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "next",
     "eslint": "^8",
     "eslint-config-next": "15.0.3"
   }
